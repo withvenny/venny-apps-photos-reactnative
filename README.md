@@ -1,4 +1,4 @@
-<img src="https://github.com/withvenny/venny-apps-photos-reactnative/blob/master/venny-io-apps-cover-lookio.png">
+<img src="https://github.com/withvenny/venny-apps-photos-reactnative/blob/master/venny-io-apps-cover-Lookio.png">
 
 # Lookio from Venny
 
